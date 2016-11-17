@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\minchan\desktop\desktop\maze\dfs_bfs\customgraph.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\minchan\desktop\desktop\maze\dfs_bfs\customgraph.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\minchan\desktop\desktop\maze\dfs_bfs\main.cpp(9): warning C4005: 'MAX_VTX': macro redefinition
+  c:\users\minchan\desktop\desktop\maze\dfs_bfs\customgraph.h(4): note: see previous definition of 'MAX_VTX'
+c:\users\minchan\desktop\desktop\maze\dfs_bfs\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  DFS_BFS.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\DFS_BFS.exe
+  DFS_BFS.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\DFS_BFS.pdb (Full PDB)
