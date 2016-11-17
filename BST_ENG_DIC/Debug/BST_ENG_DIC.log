@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\minchan\desktop\desktop\maze\bst_eng_dic\binarytree.h(37): warning C4715: 'BinaryTree::SearchRecur': not all control paths return a value
+  BST_ENG_DIC.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\BST_ENG_DIC.exe
+  BST_ENG_DIC.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\BST_ENG_DIC.pdb (Full PDB)

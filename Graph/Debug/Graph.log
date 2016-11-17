@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\minchan\desktop\desktop\maze\graph\adjmatgraph.h(73): warning C4101: 'val': unreferenced local variable
+  Graph.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\Graph.exe
+  Graph.vcxproj -> C:\Users\minchan\Desktop\Desktop\Maze\Debug\Graph.pdb (Full PDB)
